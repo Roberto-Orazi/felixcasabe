@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.976ec658.css",
+    "main.css": "/static/css/main.41a2c809.css",
     "main.js": "/static/js/main.fa326650.js",
     "static/js/787.0f0803cf.chunk.js": "/static/js/787.0f0803cf.chunk.js",
     "static/media/facultadubablackout.png": "/static/media/facultadubablackout.402bc4569621bfb53700.png",
@@ -10,12 +10,12 @@
     "static/media/biblioteca.jpg": "/static/media/biblioteca.cf9af6b463fa1ea72cb9.jpg",
     "static/media/perfilblackout.png": "/static/media/perfilblackout.b7bbde84e4c7337bbdd7.png",
     "index.html": "/index.html",
-    "main.976ec658.css.map": "/static/css/main.976ec658.css.map",
+    "main.41a2c809.css.map": "/static/css/main.41a2c809.css.map",
     "main.fa326650.js.map": "/static/js/main.fa326650.js.map",
     "787.0f0803cf.chunk.js.map": "/static/js/787.0f0803cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.976ec658.css",
+    "static/css/main.41a2c809.css",
     "static/js/main.fa326650.js"
   ]
 }
